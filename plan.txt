@@ -1,0 +1,7 @@
+Wikipedia info bot
+User inputs some text and bot gives info about this text
+
+Functions :
+1. /start : Greeting(User)
+2. /help : info(About bot)
+3. usertext : (Provides text info)
